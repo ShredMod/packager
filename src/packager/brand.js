@@ -27,7 +27,7 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'TurboWarp Packager',
+  APP_NAME: 'ShredMod Packager',
   WEBSITE: 'https://packager.turbowarp.org/',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2022 Thomas Weber
 
@@ -43,7 +43,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.`,
   ACCENT_COLOR: '#ff4c4c',
-  SOURCE_CODE: 'https://github.com/TurboWarp/packager',
+  SOURCE_CODE: 'https://github.com/ShredMod/packager',
   FEEDBACK_PRIMARY: {
     name: 'Scratch',
     link: 'https://scratch.mit.edu/users/GarboMuffin/#comments'
