@@ -1,6 +1,4 @@
-# TurboWarp Packager
-
-https://packager.turbowarp.org/
+# ShredMod Packager
 
 Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
 
@@ -9,7 +7,7 @@ Converts Scratch projects into HTML files, zip archives, or executable programs 
 Install dependencies:
 
 ```
-npm ci
+npm i
 ```
 
 Start in development mode:
